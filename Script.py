@@ -1,8 +1,13 @@
 class script(object):
     START_TXT = """𝐘𝐨..𝐘𝐨.. {},
 <b>I'm Powerful Auto-Filter Bot You Can Use Me As A Auto-filter in Your Group ....</b>\n\n<b>Its Easy To Use Me; Just Add Me To Your Group As Admin, Thats All, i will Provide Movies There...</b>🤓\n\n⚠️<b>More Help Check Help Button Below</b>\n\n©️MᴀɪɴᴛᴀɪɴᴇD Bʏ  <a href=tg://user?id=633942759>ᴘʜʏsɪᴄ_ʜʏʙʀɪᴅ🇵🇹/🇦🇪</a> """
-    HELP_TXT = """𝙷𝙴𝚈 {}
-𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
+    HELP_TXT = """b>○  it's Note Complicated...</b>🤓
+<b>○  Search using inline mode
+This methord works on any chat, Just type @TGMovieRobot and then leave a space and search any movie you want...</b>
+
+<b>○ <u>Notice </u>📙:-</b>
+<b>○Dont Spam Me...</b>🤒\n\n©️MᴀɪɴᴛᴀɪɴᴇD Bʏ <a href=tg://user?id=633942759>ᴘʜʏsɪᴄ_ʜʏʙʀɪᴅ🇵🇹/🇦🇪</a>
+"""
     ABOUT_TXT = """<b>○ My Name :</b> <code>Auto-Filter Bot</code>
 <b>○ Creator :</b> <a href="https://t.me/Physic_hybrid">Physic_Hybrid🇵🇹</a>
 <b>○ Credits :</b> <code>Everyone in this journey</code>
