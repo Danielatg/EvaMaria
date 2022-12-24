@@ -3,13 +3,17 @@ class script(object):
 <b>I'm Powerful Auto-Filter Bot You Can Use Me As A Auto-filter in Your Group ....</b>\n\n<b>Its Easy To Use Me; Just Add Me To Your Group As Admin, Thats All, i will Provide Movies There...</b>🤓\n\n⚠️<b>More Help Check Help Button Below</b>\n\n©️MᴀɪɴᴛᴀɪɴᴇD Bʏ  <a href=tg://user?id=633942759>ᴘʜʏsɪᴄ_ʜʏʙʀɪᴅ🇵🇹/🇦🇪</a> """
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
-    ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/TeamEvamaria>Team Eva Maria</a>
-✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
-✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
-✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
-✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
-✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
+    ABOUT_TXT = """<b>○ My Name :</b> <code>Auto-Filter Bot</code>
+<b>○ Creator :</b> <a href="https://t.me/Physic_hybrid">Physic_Hybrid🇵🇹</a>
+<b>○ Credits :</b> <code>Everyone in this journey</code>
+<b>○ Language :</b> <code>Python3</code>
+<b>○ Library :</b> <a href="https://docs.pyrogram.org/">Pyrogram asyncio 0.17.1</a>
+<b>○ Supported Site :</b> <a href="https://my.telegram.org/">Only Telegram</a>
+<b>○ Source Code :</b> <a href="https://t.me/AdhavaaBiriyaniKittiyalo">👉 Click Here</a>
+<b>○ Server :</b> <a href="https://herokuapp.com/">Heroku</a>
+<b>○ Database :</b> <a href="https://www.mongodb.com/">MongoDB</a>
+<b>○ Build Status :</b> <code>V2.1 [BETA]</code>
+<b>📜 Quote :</b> <code>ആരും പേടിക്കണ്ട എല്ലാവർക്കും കിട്ടും™️</code>"""
     SOURCE_TXT = """<b>NOTE:</b>
 - Eva Maria is a open source project. 
 - Source - https://github.com/EvamariaTG/EvaMaria  
