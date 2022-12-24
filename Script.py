@@ -1,6 +1,6 @@
 class script(object):
-    START_TXT = """𝙷𝙴𝙻𝙾 {},
-𝙼𝚈 """
+    START_TXT = """𝐘𝐨..𝐘𝐨.. {},
+<b>I'm Powerful Auto-Filter Bot You Can Use Me As A Auto-filter in Your Group ....</b>\n\n<b>Its Easy To Use Me; Just Add Me To Your Group As Admin, Thats All, i will Provide Movies There...</b>🤓\n\n⚠️<b>More Help Check Help Button Below</b>\n\n©️MᴀɪɴᴛᴀɪɴᴇD Bʏ  <a href=tg://user?id=633942759>ᴘʜʏsɪᴄ_ʜʏʙʀɪᴅ🇵🇹/🇦🇪</a> """
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
